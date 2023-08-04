@@ -20,6 +20,7 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
+- One paper is accepted to RTSS 2023
 - One paper is accepted to ACM MM 2023
 - One paper is accepted to CVPR 2023
 - We are awarded the Best Paper Award in [ECCV 2022 AROW workshop](https://eccv22-arow.github.io/)
@@ -27,6 +28,11 @@ Quick links to find me:
 - I obtained the National Graduate Fellowship 2022
 
 ## Publications
+
+1. **GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control**
+<br>Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, Mingsong Chen
+<br>IEEE Real-Time Systems Symposium
+<br>RTSS 2023 (CCF-A)
 
 1. **ALA: Naturalness-aware Adversarial Lightness Attack**
 <br>**Yihao Huang**, Liangru Sun, Qing Guo, Felix Juefei-Xu, Jiayi Zhu, Jincao Feng, Yang Liu, Geguang Pu
