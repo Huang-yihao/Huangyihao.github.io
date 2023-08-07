@@ -5,7 +5,7 @@
 
 Research Fellow
 <br>Nanyang Technological University ([NTU](https://www.ntu.edu.sg/Pages/home.aspx))
-<br>**Email：** huangyihao22@gmail.com 
+<br>**Email：** huangyihao22 AT gmail.com 
 
 I am a research fellow in Cyber Security Lab (CSL), [NTU](https://www.ntu.edu.sg/Pages/home.aspx), Singapore, advised by Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/), Dr. [Qing Guo](https://tsingqguo.github.io/) and Dr. [Felix Juefei Xu](http://xujuefei.com/). I got Ph.D. from East China Normal University (ECNU), Shanghai, China (2017-2022), supervised by Prof. [Geguang Pu](https://scholar.google.com/citations?user=niQAGcQAAAAJ&hl=zh-CN) and Prof. [Weikai Miao](https://faculty.ecnu.edu.cn/_s43/mwk/main.psp). I also received my B.S. degree from ECNU (2013-2017).
 
