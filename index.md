@@ -20,6 +20,7 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
+- One paper is accepted to ICSE 2024
 - One paper is accepted to RTSS 2023
 - One paper is accepted to ACM MM 2023
 - One paper is accepted to CVPR 2023
@@ -28,6 +29,11 @@ Quick links to find me:
 - I obtained the National Graduate Fellowship 2022
 
 ## Publications
+
+1. **RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness**
+<br>Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu
+<br>International Conference on Software Engineering
+<br>ICSE 2024 (CCF-A)
 
 1. **GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control**
 <br>Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, Mingsong Chen
