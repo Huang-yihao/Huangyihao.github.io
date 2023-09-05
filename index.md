@@ -107,6 +107,13 @@ Conference: AAAI, CVPR, ICCV, IJCAI, ECCV
 
 Journal: TCI, TCSVT, IJCV
 
+## Invited Talks
+- **Robustness Evaluation of Visual Perception Systems**
+  
+   UTOPILOT, China, September 2023
+
+
+
 
 
 
