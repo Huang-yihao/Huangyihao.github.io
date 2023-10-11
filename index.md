@@ -20,6 +20,7 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
+- One paper is accepted to TCSVT
 - One paper is accepted to ICSE 2024
 - One paper is accepted to RTSS 2023
 - One paper is accepted to ACM MM 2023
@@ -29,6 +30,11 @@ Quick links to find me:
 - I obtained the National Graduate Fellowship 2022
 
 ## Publications
+
+1. **Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering**
+<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu
+<br>IEEE Transactions on Circuits and Systems for Video Technology
+<br>TCSVT (CCF-B)
 
 1. **RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness**
 <br>Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu
@@ -105,7 +111,7 @@ Quick links to find me:
 
 Conference: AAAI, CVPR, ICCV, IJCAI, ECCV
 
-Journal: TCI, TCSVT, IJCV
+Journal: TCSVT, IJCV
 
 ## Invited Talks
 - **Robustness Evaluation of Visual Perception Systems**
