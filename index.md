@@ -20,6 +20,7 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
+- One paper is accepted to TMM
 - One paper is accepted to TCSVT
 - One paper is accepted to ICSE 2024
 - One paper is accepted to RTSS 2023
@@ -30,6 +31,11 @@ Quick links to find me:
 - I obtained the National Graduate Fellowship 2022
 
 ## Publications
+
+1. **Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network**
+<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu 
+<br>IEEE Transactions on Multimedia
+<br>TMM (CCF-B)
 
 1. **Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering**
 <br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu
