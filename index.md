@@ -55,7 +55,7 @@ Quick links to find me:
 1. **ALA: Naturalness-aware Adversarial Lightness Attack**
 <br>**Yihao Huang**, Liangru Sun, Qing Guo, Felix Juefei-Xu, Jiayi Zhu, Jincao Feng, Yang Liu, Geguang Pu
 <br>ACM International Conference on Multimedia
-<br>ACM MM 2023 (CCF-A)
+<br>ACM MM 2023 (CCF-A) [pdf](https://dl.acm.org/doi/10.1145/3581783.3611914)
 
 1. **Evading DeepFake Detectors via Adversarial Statistical Consistency**
 <br>Yang Hou, Qing Guo, **Yihao Huang**, Xiaofei Xie, Lei Ma, Jianjun Zhao 
