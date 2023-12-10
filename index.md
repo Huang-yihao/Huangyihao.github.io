@@ -20,6 +20,8 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
+- One paper is accepted to AAAI
+- One paper is accepted to ICDE
 - One paper is accepted to TMM
 - One paper is accepted to TCSVT
 - One paper is accepted to ICSE 2024
@@ -31,6 +33,16 @@ Quick links to find me:
 - I obtained the National Graduate Fellowship 2022
 
 ## Publications
+
+1. **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models**
+<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yuyong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu 
+<br>AAAI Conference on Artificial Intelligence
+<br>AAAI (CCF-A)
+
+1. **FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation**
+<br>Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang Liu, Xiang Lian, Mingsong Chen 
+<br>IEEE International Conference on Data Engineering
+<br>ICDE (CCF-A)
 
 1. **Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network**
 <br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu 
