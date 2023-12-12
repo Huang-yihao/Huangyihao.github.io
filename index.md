@@ -35,7 +35,7 @@ Quick links to find me:
 ## Publications
 
 1. **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models**
-<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yuyong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu 
+<br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu 
 <br>AAAI Conference on Artificial Intelligence
 <br>AAAI (CCF-A)
 
