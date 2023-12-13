@@ -37,27 +37,27 @@ Quick links to find me:
 1. **Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models**
 <br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Jie Zhang, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu 
 <br>AAAI Conference on Artificial Intelligence
-<br>AAAI (CCF-A)
+<br>AAAI 2024 (CCF-A)
 
 1. **FedCross: Towards Accurate Federated Learning via Multi-Model Cross-Aggregation**
 <br>Ming Hu, Peiheng Zhou, Zhihao Yue, Zhiwei Ling, **Yihao Huang**, Anran Li, Yang Liu, Xiang Lian, Mingsong Chen 
 <br>IEEE International Conference on Data Engineering
-<br>ICDE (CCF-A)
+<br>ICDE 2024 (CCF-A)
 
 1. **Natural & Adversarial Bokeh Rendering via Circle-of-Confusion Predictive Network**
 <br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Geguang Pu, Yang Liu 
 <br>IEEE Transactions on Multimedia
-<br>TMM (CCF-B)
+<br>TMM 2023 (CCF-B) [pdf](https://ieeexplore.ieee.org/document/10337751)
 
 1. **Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering**
 <br>**Yihao Huang**, Felix Juefei-Xu, Qing Guo, Yang Liu, Geguang Pu
 <br>IEEE Transactions on Circuits and Systems for Video Technology
-<br>TCSVT (CCF-B)
+<br>TCSVT 2023 (CCF-B) [pdf](https://ieeexplore.ieee.org/document/10287378)
 
 1. **RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness**
 <br>Tianlin Li, Yue Cao, Jian Zhang, Shiqian Zhao, **Yihao Huang**, Aishan Liu, Qing Guo, Yang Liu
 <br>International Conference on Software Engineering
-<br>ICSE 2024 (CCF-A)
+<br>ICSE 2024 (CCF-A) [pdf](https://www.computer.org/csdl/proceedings-article/icse/2024/021700a066/1RLIWnQFbdm)
 
 1. **GitFL: Uncertainty-Aware Real-Time Asynchronous Federated Learning using Version Control**
 <br>Ming Hu, Zeke Xia, DengKe Yan, Zhihao Yue, Jun Xia, **Yihao Huang**, Yang Liu, Mingsong Chen
