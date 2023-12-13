@@ -20,8 +20,8 @@ Quick links to find me:
 - [DBLP](https://dblp.org/pid/255/5085.html)
 
 ## News
-- One paper is accepted to AAAI
-- One paper is accepted to ICDE
+- One paper is accepted to AAAI 2024
+- One paper is accepted to ICDE 2024
 - One paper is accepted to TMM
 - One paper is accepted to TCSVT
 - One paper is accepted to ICSE 2024
@@ -86,32 +86,32 @@ Quick links to find me:
 
 1. **AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack via Multi-domain Learning**
 <br>**Yihao Huang**, Qing Guo, Felix Juefei-Xu, Lei Ma, Weikai Miao, Yang Liu, Geguang Pu
-<br>ACM International Conference on Multimedia
+<br>The 29th ACM International Conference on Multimedia
 <br>ACM MM 2021 (CCF-A)   [pdf](https://dl.acm.org/doi/10.1145/3474085.3475171)
 
 1. **FREPA: an automated and formal approach to requirement modeling and analysis in aircraft control domain**
 <br>Jincao Feng, Weikai Miao, Hanyue Zheng, **Yihao Huang**, Jianwen Li, Zheng Wang, Ting Su, Bin Gu, Geguang Pu, Mengfei Yang, Jifeng He
-<br>Foundations of Software Engineering
+<br>The 28th Foundations of Software Engineering
 <br>FSE 2020 (CCF-A)   [pdf](https://dl.acm.org/doi/abs/10.1145/3368089.3417047)
 
 1. **DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices**
 <br>Run Wang, Felix Juefei-Xu, **Yihao Huang**, Qing Guo, Xiaofei Xie, Lei Ma, Yang Liu
-<br>ACM International Conference on Multimedia
+<br>The 28th ACM International Conference on Multimedia
 <br>ACM MM 2020 (CCF-A)   [pdf](https://dl.acm.org/doi/abs/10.1145/3394171.3413716)
 
 1. **Amora: Black-box adversarial morphing attack**
 <br>Run Wang, Felix Juefei-Xu, Xiaofei Xie, **Yihao Huang**, Yang Liu
-<br>ACM International Conference on Multimedia
+<br>The 28th ACM International Conference on Multimedia
 <br>ACM MM 2020 (CCF-A)   [pdf](https://dl.acm.org/doi/10.1145/3394171.3413544)
 
 1. **FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction**
 <br>**Yihao Huang**, Felix Juefei-Xu, Run Wang, Qing Guo, Lei Ma, Xiaofei Xie, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu
-<br>ACM International Conference on Multimedia
+<br>The 28th ACM International Conference on Multimedia
 <br>ACM MM 2020  (CCF-A)  [pdf](https://dl.acm.org/doi/10.1145/3394171.3413732)
 
 1. **FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces**
 <br>Run Wang, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, **Yihao Huang**, Jian Wang, Yang Liu
-<br>Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence
+<br>The 29th International Joint Conference on Artificial Intelligence
 <br>IJCAI 2020 (CCF-A)  [pdf](https://www.ijcai.org/proceedings/2020/476)
 
 1. **A Domain Experts Centric Approach to Formal Requirements Modeling and V&V of Embedded Control Software**
